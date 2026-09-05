@@ -1,0 +1,17 @@
+内嵌铜螺母 Embedded copper nut       2*2*3.2   8 pcs
+https://item.taobao.com/item.htm?_u=hkn6t92811c&id=697702160537&pisk=gdbT_umznJ2Gks28QNrnoqbLCuNhDkfNTO5SoKvic9BdH_hGjnvDcEBPeng0bFxvk99hSdfM5ItfnTsMCGvmkZBFBV0D5t4vh_SUgdAGSjdfAO3cj1vGvjLN-G0DIR8AGTYYE84ur15w8EwuETkSgHTwMKgXGxvQRQYv1Mjsjg1wuEwxtqZuy1WS48CEfIOQ9IAmcq6XfeTBZpOXGn6XdHOWZATfhENpdIA2GAisfpMBwpij1Vg1OHODZKi6CVNdOpRXlK6XfvTu6pl66qISf_PYjzGwwibp6hp59ukxh7RxEp16qq3vBC-tj19Klq_dARUEndZrtK8MQadO3zuw5nIPiIBTWV6AawWpOTaxrd1FZgxN5o0k2FJ9mN1324L1QIKWlHhjl6L1Y3_HPzMpTM1GcNWtMqONSaxvUHFjunYCr3s5BjPPOFOf3370UVJ1G_7PqUUnfU1dcTIA4Ybly3KjELdmfWFK0m-6TOldDU-JxtZ99LV6fmo2mBRpEWFK0m-6TBpu1qiq0nAF.&spm=a1z09.2.0.0.468f2e8dlLb7sB
+
+
+沉头螺丝 countersunk screw           M2*6            8pcs
+https://detail.tmall.com/item.htm?_u=hkn6t92c13d&id=786451218988&pisk=gJb0_qqp1i-fAwz3lYTbvkx1LXrRhET17O39BFpa4LJ71mnYGhRNsObOD1J9SOXGIKKahEQGE61TGNFXuPANpTYOMKpOE5XA1VebfE3ZIt1UhspTGNvwEtWMfS99QdXO_iF8JyCfGFTwSJULJWNUlCBMgF-2a5ReTmPJ07au77YapJUi2b-bHFWxFyD8z0RBUIRw_dPkzCOtuF-wg_Pk_CHqbqWaZ_JW1Iu2bqzzzCRIbFuq70Ry9CAwgVoqabJW_FJNQFPkzvEE0pQNYayzztnafwqYtgKDLsJo-_6wgDJ8RpgNXaR2mN5vEQdRrIxDL3qlhfbVe17Al3wiQF1RxOjNCknWo1S2uBCbo4YFggQMwNFtjKWfr_7vqX3p2T7cIKLn_r5koKxFotGZJ95l_MKlyWzBoEJVXE1tt-ClotCfr1hZ4EYAqHbD8yM2BgChSCb_CzXhOa6ka9zg3grr4DoY7VOz6aosfnRWZpHX_4NmDPQ377Vov1t2NB9LZ7msfnRWZpFuZDIX0QOBp&spm=a1z09.2.0.0.468f2e8dlLb7sB
+
+
+
+
+
+海绵腕托    Sponge wrist brace         2pcs
+https://detail.tmall.com/item.htm?_u=hkn6t9278b7&id=678872942368&pisk=gsI7s5DGfbcWW0Pho_22hK_mC-tIA-ravv9dI9nrp3KJRDBP1poe8zvIAI6TEQz3r6_f9sYywB8eAp1wiToUETyQA9B9wH7yapCVOs0PaMRFgk6G1UoPpMklo1Wt4gzkYDtkxHFa_lraETxHvhqOfeHkDpvEJkR-yjKkLf6-UAENETAnFXeNkllI_W-j92dd9nLvCdKK2BLLhEpwpHnJJ03xMIAv9HdJyILvBLM-20pLhqp9eXhJJ4pvkppZ9HKd9teXKIp-dncXLz9dF8Q6rfZiODrC4DndcLTYuiAAN6yeCUT5FINT_iiMPCBJGDFshyrHOIjTgr6cyaCyn6Z_GHfcJ6pCMjFer9QfGL1z1XAFqTSBaTa8attDNOAfhlgG131BWgLjpDtkVIxXHGeESISXa6IWkRo68nIwW3Q4o78eVd1dq_MIv1BVQgYcA5GvtaJMDdWuVmtOepIrgcR1nD3IhFmBhCybh20h0f3CptmFr3TJnLEah-Gj-UpDhCybh20HyKvRu-wjG2f..&spm=a1z09.2.0.0.468f2e8dlLb7sB
+
+
+橡胶防滑垫  10mm*2mm     8pcs
+https://item.taobao.com/item.htm?abbucket=17&detail_redpacket_pop=true&id=672154842751&ltk2=17470329516584j4itor3ssl5prcfrtk1a&ns=1&priceTId=undefined&query=%E9%98%B2%E6%BB%91%E8%84%9A%E5%9E%AB&skuId=5756437316054&spm=a21n57.1.hoverItem.7&utparam=%7B%22aplus_abtest%22%3A%22b50cf2e1c4565d8a319983c9e21d4846%22%7D&xxc=taobaoSearch
