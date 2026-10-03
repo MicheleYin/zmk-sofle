@@ -7,7 +7,6 @@
 
 #include "eyelash_sofle.dtsi"
 #include <input/processors.dtsi>
-#include <input/processors/runtime-input-processor.dtsi>
 
 &kscan0 {
     compatible = "zmk,kscan-gpio-matrix";
