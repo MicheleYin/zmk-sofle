@@ -6,11 +6,11 @@ manifest:
       url-base: https://github.com/cormoran
   projects:
     - name: eyelash_sofle
-      url: https://github.com/a741725193/zmk-sofle
+      url: https://github.com/MicheleYin/zmk-sofle
       revision: main
     - name: zmk
-      remote: cormoran
-      revision: v0.3-branch+dya
+      remote: zmkfirmware
+      revision: 06b97d232cd8b577222133291e91badae206967d
       import: app/west.yml
     - name: zmk-behavior-runtime-sensor-rotate
       remote: cormoran
