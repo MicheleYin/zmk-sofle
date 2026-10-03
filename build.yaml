@@ -2,8 +2,11 @@
 include:
   - board: nice_nano/nrf52840/zmk
     shield: eyelash_sofle_left nice_view
+    artifact-name: eyelash_sofle_left_nice_view
     cmake-args: -DCONFIG_ZMK_STUDIO=y -DCONFIG_ZMK_STUDIO_LOCKING=n
   - board: nice_nano/nrf52840/zmk
     shield: eyelash_sofle_right nice_view
+    artifact-name: eyelash_sofle_right_nice_view
   - board: nice_nano/nrf52840/zmk
     shield: settings_reset
+    artifact-name: settings_reset
