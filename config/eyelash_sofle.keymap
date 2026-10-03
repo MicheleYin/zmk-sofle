@@ -87,6 +87,7 @@
 
             sensor-bindings = <&scroll_encoder &scroll_encoder>;
             display-name = "LAYER1";
+        };
 
         layer_2 {
             bindings = <
@@ -124,7 +125,7 @@
             >;
 
             display-name = "LAYER4";
-            sensor-bindings = <&rsr_vol &rsr_trans>;
+            sensor-bindings = <&scroll_encoder &scroll_encoder>;
         };
     };
 };
