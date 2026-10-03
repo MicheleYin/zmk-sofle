@@ -92,7 +92,7 @@
 &kp C_MUTE  &kp LCTRL  &kp LEFT_GUI  &kp LEFT_ALT  &mo 1   &kp SPACE    &kp ENTER        &kp SPACE  &kp ENTER  &mo 2      &kp RIGHT_SHIFT  &kp DELETE
             >;
 
-            sensor-bindings = <&rsr_vol &rsr_trans>;
+            sensor-bindings = <&scroll_encoder &scroll_encoder>;
             display-name = "LAYER0";
         };
 
@@ -105,9 +105,9 @@
 &kp C_MUTE  &trans           &trans          &trans           &trans           &trans             &mkp LCLK        &trans           &trans           &trans      &trans     &trans
             >;
 
-            sensor-bindings = <&rsr_vol &rsr_trans>;
+            sensor-bindings = <&scroll_encoder &scroll_encoder>;
             display-name = "LAYER1";
-        };
+                sensor-bindings = <&rsr_vol &rsr_trans>;
 
         layer_2 {
             bindings = <
@@ -119,7 +119,7 @@
             >;
 
             display-name = "LAYER2";
-            sensor-bindings = <&rsr_vol &rsr_trans>;
+                sensor-bindings = <&rsr_vol &rsr_trans>;
         };
 
         layer_3 {
@@ -132,7 +132,7 @@
             >;
 
             display-name = "LAYER3";
-            sensor-bindings = <&rsr_vol &rsr_trans>;
+                sensor-bindings = <&rsr_vol &rsr_trans>;
         };
 
         layer_4 {
