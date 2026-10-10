@@ -32,14 +32,14 @@
     volume_encoder: volume_encoder {
         compatible = "zmk,behavior-sensor-rotate";
         #sensor-binding-cells = <0>;
-        bindings = <&kp C_VOL_DN>, <&kp C_VOL_UP>;
+        bindings = <&kp C_VOL_UP>, <&kp C_VOL_DN>;
         tap-ms = <100>;
     };
 
     brightness_encoder: brightness_encoder {
         compatible = "zmk,behavior-sensor-rotate";
         #sensor-binding-cells = <0>;
-        bindings = <&kp C_BRI_DN>, <&kp C_BRI_UP>;
+        bindings = <&kp C_BRI_UP>, <&kp C_BRI_DN>;
         tap-ms = <100>;
     };
 
