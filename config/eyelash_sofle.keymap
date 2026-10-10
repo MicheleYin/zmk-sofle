@@ -29,10 +29,17 @@
 &soft_off { hold-time-ms = <2000>; };
 
 / {
-    scroll_encoder: scroll_encoder {
+    volume_encoder: volume_encoder {
         compatible = "zmk,behavior-sensor-rotate";
         #sensor-binding-cells = <0>;
-        bindings = <&msc SCRL_DOWN>, <&msc SCRL_UP>;
+        bindings = <&kp C_VOL_DN>, <&kp C_VOL_UP>;
+        tap-ms = <100>;
+    };
+
+    brightness_encoder: brightness_encoder {
+        compatible = "zmk,behavior-sensor-rotate";
+        #sensor-binding-cells = <0>;
+        bindings = <&kp C_BRI_DN>, <&kp C_BRI_UP>;
         tap-ms = <100>;
     };
 
@@ -72,7 +79,7 @@
 &kp C_MUTE  &kp LCTRL  &kp LEFT_GUI  &kp LEFT_ALT  &mo 1   &kp SPACE    &kp ENTER        &kp SPACE  &kp ENTER  &mo 2      &kp RIGHT_SHIFT  &kp DELETE
             >;
 
-            sensor-bindings = <&scroll_encoder &scroll_encoder>;
+            sensor-bindings = <&volume_encoder &volume_encoder>;
             display-name = "LAYER0";
         };
 
@@ -85,7 +92,7 @@
 &kp C_MUTE  &trans           &trans          &trans           &trans           &trans             &mkp LCLK        &trans           &trans           &trans      &trans     &trans
             >;
 
-            sensor-bindings = <&scroll_encoder &scroll_encoder>;
+            sensor-bindings = <&brightness_encoder &brightness_encoder>;
             display-name = "LAYER1";
         };
 
@@ -99,7 +106,7 @@
             >;
 
             display-name = "LAYER2";
-            sensor-bindings = <&scroll_encoder &scroll_encoder>;
+            sensor-bindings = <&volume_encoder &volume_encoder>;
         };
 
         layer_3 {
@@ -112,7 +119,7 @@
             >;
 
             display-name = "LAYER3";
-            sensor-bindings = <&scroll_encoder &scroll_encoder>;
+            sensor-bindings = <&volume_encoder &volume_encoder>;
         };
 
         layer_4 {
@@ -125,7 +132,7 @@
             >;
 
             display-name = "LAYER4";
-            sensor-bindings = <&scroll_encoder &scroll_encoder>;
+            sensor-bindings = <&volume_encoder &volume_encoder>;
         };
     };
 };
