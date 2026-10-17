@@ -7,8 +7,8 @@ manifest:
       url: https://github.com/MicheleYin/zmk-sofle
       revision: main
     - name: zmk
-      remote: zmkfirmware
-      revision: 70536371a6b25a03e2d534cd88801284d3a8edb7
+      url: https://github.com/MicheleYin/zmk.git
+      revision: dd4f83bc79e165fefb11334e84a4a5853ce3b9fb
       import: app/west.yml
   self:
     path: config

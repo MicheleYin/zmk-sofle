@@ -32,7 +32,14 @@
     scroll_encoder: scroll_encoder {
         compatible = "zmk,behavior-sensor-rotate";
         #sensor-binding-cells = <0>;
-        bindings = <&msc SCRL_DOWN>, <&msc SCRL_UP>;
+        bindings = <&kp C_VOL_UP>, <&kp C_VOL_DN>;
+        tap-ms = <100>;
+    };
+
+    brightness_encoder: brightness_encoder {
+        compatible = "zmk,behavior-sensor-rotate";
+        #sensor-binding-cells = <0>;
+        bindings = <&kp C_BRI_UP>, <&kp C_BRI_DN>;
         tap-ms = <100>;
     };
 
@@ -85,7 +92,7 @@
 &kp C_MUTE  &trans           &trans          &trans           &trans           &trans             &mkp LCLK        &trans           &trans           &trans      &trans     &trans
             >;
 
-            sensor-bindings = <&scroll_encoder &scroll_encoder>;
+            sensor-bindings = <&brightness_encoder &brightness_encoder>;
             display-name = "LAYER1";
         };
 

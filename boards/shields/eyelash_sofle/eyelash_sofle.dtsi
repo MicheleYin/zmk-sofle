@@ -16,7 +16,18 @@
         zmk,underglow = &led_strip;
         zmk,backlight = &backlight;
         zmk,physical-layout = &eyelash_sofle_layout;
+        zmk,battery-reporting = &battery_reporting;
 
+    };
+
+    battery_reporting: battery_reporting {
+        compatible = "zmk,battery-reporting";
+        left {
+            cpf = <269>;
+        };
+        right {
+            cpf = <270>;
+        };
     };
 
     backlight: pwmleds {
