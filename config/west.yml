@@ -8,7 +8,10 @@ manifest:
       revision: main
     - name: zmk
       url: https://github.com/MicheleYin/zmk.git
-      revision: dd4f83bc79e165fefb11334e84a4a5853ce3b9fb
+      revision: feature/nice-view
       import: app/west.yml
+    - name: zmk-module-nice-view-svg
+      url: https://github.com/MicheleYin/zmk-module-nice-view-svg
+      revision: main
   self:
     path: config
