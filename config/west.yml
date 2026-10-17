@@ -12,6 +12,6 @@ manifest:
       import: app/west.yml
     - name: zmk-module-nice-view-svg
       url: https://github.com/MicheleYin/zmk-module-nice-view-svg
-      revision: main
+      revision: feature/shan
   self:
     path: config
