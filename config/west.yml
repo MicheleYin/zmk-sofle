@@ -8,7 +8,7 @@ manifest:
       revision: main
     - name: zmk
       url: https://github.com/MicheleYin/zmk.git
-      revision: dd4f83bc79e165fefb11334e84a4a5853ce3b9fb
+      revision: feat/individual-hid-battery-reporting-v2
       import: app/west.yml
   self:
     path: config
