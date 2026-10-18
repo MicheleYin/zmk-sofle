@@ -10,8 +10,8 @@ manifest:
       url: https://github.com/MicheleYin/zmk.git
       revision: feature/nice-view
       import: app/west.yml
-    - name: zmk-module-nice-view-svg
-      url: https://github.com/MicheleYin/zmk-module-nice-view-svg
-      revision: feature/shan
+    - name: zmk-svg
+      url: https://github.com/MicheleYin/zmk-svg
+      revision: feature/山水
   self:
     path: config
